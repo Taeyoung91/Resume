@@ -59,7 +59,7 @@ Web Application에 관심 있는 개발자
 
 
 
-### **연락처**
+### **5. 연락처**
 --------------
 Github : https://github.com/Taeyoung91  
 E-mail : eeddaa0929@gmail.com
