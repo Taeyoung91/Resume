@@ -1,6 +1,6 @@
 # 김태영
 
-Web Application에 관심 있는 개발자
+Web Application에 관심 있는 개발자  
 소통하는 개발자
 
 ### **1. 학력**
